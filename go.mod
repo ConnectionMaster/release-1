@@ -28,9 +28,8 @@ require (
 	github.com/spf13/cobra v1.3.0
 	github.com/spiegel-im-spiegel/go-cvss v0.4.0
 	github.com/stretchr/testify v1.7.0
-	github.com/yuin/goldmark v1.4.4
+	github.com/yuin/goldmark v1.5.3
 	golang.org/x/net v0.0.0-20211216030914-fe4d6282115f
-	google.golang.org/api v0.62.0
 	gopkg.in/yaml.v2 v2.4.0
 	sigs.k8s.io/bom v0.1.1-0.20211228172218-5dc67098b61b
 	sigs.k8s.io/mdtoc v1.1.0
@@ -64,7 +63,6 @@ require (
 	github.com/go-ole/go-ole v1.2.6 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/gomarkdown/markdown v0.0.0-20210514010506-3b9f47219fe7 // indirect
-	github.com/google/go-cmp v0.5.6 // indirect
 	github.com/google/go-github/v33 v33.0.0 // indirect
 	github.com/google/go-github/v34 v34.0.0
 	github.com/google/go-querystring v1.1.0 // indirect
@@ -107,12 +105,6 @@ require (
 )
 
 require (
-	github.com/census-instrumentation/opencensus-proto v0.3.0 // indirect
-	github.com/cespare/xxhash/v2 v2.1.2 // indirect
-	github.com/cncf/udpa/go v0.0.0-20210930031921-04548b0d99d4 // indirect
-	github.com/cncf/xds/go v0.0.0-20211130200136-a8f946100490 // indirect
-	github.com/envoyproxy/go-control-plane v0.10.1 // indirect
-	github.com/envoyproxy/protoc-gen-validate v0.6.2 // indirect
 	github.com/google/licenseclassifier/v2 v2.0.0-alpha.1 // indirect
 	github.com/power-devops/perfstat v0.0.0-20210106213030-5aafc221ea8c // indirect
 	github.com/secure-systems-lab/go-securesystemslib v0.3.0 // indirect
